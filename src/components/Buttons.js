@@ -1,3 +1,6 @@
+import React from "react";
+import satData from "./satData";
+
 const Buttons = () => {
   return (
     <div>
